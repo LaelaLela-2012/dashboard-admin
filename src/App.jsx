@@ -10,6 +10,8 @@ import {
 import UserList from "./components/pages/userList/UserList";
 import User from "./components/pages/user/User";
 import NewUser from "./components/pages/newUser/NewUser";
+import ProductList from "./components/pages/productList/ProductList";
+import Product from "./components/pages/Product/Product";
 
 function App() {
   return (
@@ -29,6 +31,15 @@ function App() {
           </Route>
           <Route path='/newUser'>
            <NewUser />
+          </Route>
+          <Route path='/products'>
+           <ProductList />
+          </Route>
+          <Route path='/product/:productsId'>
+           <Product />
+          </Route>
+          <Route path='/newProduct'>
+           <newUser />
           </Route>
         </Switch>
       </div>
