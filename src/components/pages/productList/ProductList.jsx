@@ -13,7 +13,7 @@ export default function ProductList() {
         setData(data.filter((item) => item.id !== id));
     };
 
-        const columns = [
+const columns = [
   { field: 'id', headerName: 'ID', width: 70 },
     { field: 'product', headerName: 'Product', width: 200, renderCell: (params) => {
         return (
@@ -22,11 +22,11 @@ export default function ProductList() {
                 {params.row.name}
             </div>
             )}
-    },
-  { field: 'stock', headerName: 'Stock', width: 180 },
-  { field: 'status', headerName: 'Status', width: 120 },
-    { field: 'price', headerName: 'Price', width: 200 },
-        {
+        },
+    { field: 'stock', headerName: 'Stock', width: 180 },
+    { field: 'status', headerName: 'Status', width: 120 },
+        { field: 'price', headerName: 'Price', width: 200 },
+            {
             field: 'action', headerName: 'Action', width: 200,
             renderCell: (params) => {
                 return (

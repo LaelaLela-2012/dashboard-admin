@@ -166,7 +166,7 @@ export const productRows = [
   {
     id: 1,
     name: "Apple Airpods",
-    img: "https://images.pexels.com/photos/3825517/pexels-photo-3825517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "https://media.istockphoto.com/id/1143541816/id/foto/headphone-pada-pengisian-daya.jpg?s=1024x1024&w=is&k=20&c=MWRszvYMvgaSqW-Tf4CbXIOpO76FoDWaDvTuKP3I8_A=",
     stock: "123",
     status: "active",
     price: "$120.90",
@@ -174,7 +174,7 @@ export const productRows = [
   {
     id: 2,
     name: "Apple Airpods",
-    img: "https://images.pexels.com/photos/3825517/pexels-photo-3825517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "https://media.istockphoto.com/id/1143541816/id/foto/headphone-pada-pengisian-daya.jpg?s=1024x1024&w=is&k=20&c=MWRszvYMvgaSqW-Tf4CbXIOpO76FoDWaDvTuKP3I8_A=",
     stock: "123",
     status: "active",
     price: "$120.90",
@@ -182,7 +182,7 @@ export const productRows = [
   {
     id: 3,
     name: "Apple Airpods",
-    img: "https://images.pexels.com/photos/3825517/pexels-photo-3825517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "https://media.istockphoto.com/id/1143541816/id/foto/headphone-pada-pengisian-daya.jpg?s=1024x1024&w=is&k=20&c=MWRszvYMvgaSqW-Tf4CbXIOpO76FoDWaDvTuKP3I8_A=",
     stock: "123",
     status: "active",
     price: "$120.90",
@@ -190,7 +190,7 @@ export const productRows = [
   {
     id: 4,
     name: "Apple Airpods",
-    img: "https://images.pexels.com/photos/3825517/pexels-photo-3825517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "https://media.istockphoto.com/id/1143541816/id/foto/headphone-pada-pengisian-daya.jpg?s=1024x1024&w=is&k=20&c=MWRszvYMvgaSqW-Tf4CbXIOpO76FoDWaDvTuKP3I8_A=",
     stock: "123",
     status: "active",
     price: "$120.90",
@@ -198,7 +198,7 @@ export const productRows = [
   {
     id: 5,
     name: "Apple Airpods",
-    img: "https://images.pexels.com/photos/3825517/pexels-photo-3825517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "https://media.istockphoto.com/id/1143541816/id/foto/headphone-pada-pengisian-daya.jpg?s=1024x1024&w=is&k=20&c=MWRszvYMvgaSqW-Tf4CbXIOpO76FoDWaDvTuKP3I8_A=",
     stock: "123",
     status: "active",
     price: "$120.90",
@@ -206,7 +206,7 @@ export const productRows = [
   {
     id: 6,
     name: "Apple Airpods",
-    img: "https://images.pexels.com/photos/3825517/pexels-photo-3825517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "https://media.istockphoto.com/id/1143541816/id/foto/headphone-pada-pengisian-daya.jpg?s=1024x1024&w=is&k=20&c=MWRszvYMvgaSqW-Tf4CbXIOpO76FoDWaDvTuKP3I8_A=",
     stock: "123",
     status: "active",
     price: "$120.90",
@@ -214,7 +214,7 @@ export const productRows = [
   {
     id: 7,
     name: "Apple Airpods",
-    img: "https://images.pexels.com/photos/3825517/pexels-photo-3825517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "https://media.istockphoto.com/id/1143541816/id/foto/headphone-pada-pengisian-daya.jpg?s=1024x1024&w=is&k=20&c=MWRszvYMvgaSqW-Tf4CbXIOpO76FoDWaDvTuKP3I8_A=",
     stock: "123",
     status: "active",
     price: "$120.90",
@@ -222,7 +222,7 @@ export const productRows = [
   {
     id: 8,
     name: "Apple Airpods",
-    img: "https://images.pexels.com/photos/3825517/pexels-photo-3825517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "https://media.istockphoto.com/id/1143541816/id/foto/headphone-pada-pengisian-daya.jpg?s=1024x1024&w=is&k=20&c=MWRszvYMvgaSqW-Tf4CbXIOpO76FoDWaDvTuKP3I8_A=",
     stock: "123",
     status: "active",
     price: "$120.90",
@@ -230,7 +230,7 @@ export const productRows = [
   {
     id: 9,
     name: "Apple Airpods",
-    img: "https://images.pexels.com/photos/3825517/pexels-photo-3825517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "https://media.istockphoto.com/id/1143541816/id/foto/headphone-pada-pengisian-daya.jpg?s=1024x1024&w=is&k=20&c=MWRszvYMvgaSqW-Tf4CbXIOpO76FoDWaDvTuKP3I8_A=",
     stock: "123",
     status: "active",
     price: "$120.90",
@@ -238,7 +238,7 @@ export const productRows = [
   {
     id: 10,
     name: "Apple Airpods",
-    img: "https://images.pexels.com/photos/3825517/pexels-photo-3825517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "https://media.istockphoto.com/id/1143541816/id/foto/headphone-pada-pengisian-daya.jpg?s=1024x1024&w=is&k=20&c=MWRszvYMvgaSqW-Tf4CbXIOpO76FoDWaDvTuKP3I8_A=",
     stock: "123",
     status: "active",
     price: "$120.90",
